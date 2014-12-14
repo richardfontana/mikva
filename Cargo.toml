@@ -1,0 +1,5 @@
+[package]
+
+name = "mikva"
+version = "0.0.1"
+authors = ["Richard Fontana <fontana@sharpeleven.org>"]
